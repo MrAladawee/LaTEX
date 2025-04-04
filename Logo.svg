@@ -56,7 +56,6 @@ viewBox="0 0 21000 29700"
     @font-face { font-family:"Arial";font-variant:normal;font-weight:normal;src:url("#FontID1") format(svg)}
     @font-face { font-family:"Franklin Gothic Heavy";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
     .str0 {stroke:#2B2A29;stroke-width:282.22;stroke-miterlimit:22.9256}
-    .str3 {stroke:#FEFEFE;stroke-width:20;stroke-miterlimit:22.9256}
     .str2 {stroke:#2B2A29;stroke-width:20;stroke-miterlimit:22.9256}
     .str1 {stroke:#2B2A29;stroke-width:282.22;stroke-miterlimit:22.9256}
     .fil0 {fill:none}
@@ -72,23 +71,23 @@ viewBox="0 0 21000 29700"
  <g id="Слой_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <rect class="fil0 str0" x="10102.5" y="9302.58" width="5991.2" height="5767.68" rx="638.34" ry="614.52"/>
-  <g id="_2641807095120">
+  <g id="_2641579796512">
    <line class="fil0 str1" x1="12556.35" y1="10930.74" x2="12556.35" y2= "13385.52" />
   </g>
-  <g id="_2641807093056">
+  <g id="_2641579796848">
    <line class="fil0 str1" x1="15029.77" y1="12921.09" x2="11122.85" y2= "12921.09" />
   </g>
-  <g id="_2641807095216">
+  <g id="_2641579795984">
    <line class="fil0 str1" x1="16093.7" y1="13996.02" x2="10102.5" y2= "13996.02" />
   </g>
   <path class="fil0 str0" d="M11420.66 11524.4c97.1,0 194.17,0 304.77,32.37 110.57,32.37 234.63,97.07 342.51,188.77 107.89,91.7 199.58,210.39 302.06,331.73 102.51,121.38 215.76,245.45 320.96,304.78 105.19,59.33 202.26,53.95 304.74,8.09 102.5,-45.84 210.39,-132.16 318.27,-258.91 107.88,-126.75 215.76,-293.99 364.1,-536.72 148.34,-242.72 337.11,-560.99 504.32,-792.94 167.24,-231.94 312.86,-377.57 447.71,-461.2 134.87,-83.61 258.94,-105.17 383,-126.75"/>
-  <g id="_2641807092192">
+  <g id="_2641579795216">
    <line class="fil0 str1" x1="12596.86" y1="15070.26" x2="12305.08" y2= "15811.99" />
   </g>
-  <g id="_2641807090224">
+  <g id="_2641579793776">
    <line class="fil0 str1" x1="13618.89" y1="15070.26" x2="13910.67" y2= "15811.99" />
   </g>
-  <g id="_2641807091232">
+  <g id="_2641579792672">
    <line class="fil0 str1" x1="14103.38" y1="15817.43" x2="12092.79" y2= "15817.43" />
   </g>
   <path class="fil0 str0" d="M15147.08 20744.12c2043.32,-1409.85 3382.44,-3767.38 3382.44,-6437.71 0,-4316.62 -3499.28,-7815.9 -7815.9,-7815.9 -4316.61,0 -7815.89,3499.28 -7815.89,7815.9 0,2670.33 1339.12,5027.86 3382.44,6437.71"/>
@@ -97,7 +96,7 @@ viewBox="0 0 21000 29700"
   <text x="5768.64" y="17484.36"  class="fil1 fnt0">МАТЕМАТИКА</text>
   <text x="5314.85" y="18873.6"  class="fil1 fnt1">И КОМПЬЮТЕРНЫЕ</text>
   <text x="8825.54" y="20179.41"  class="fil1 fnt2">НАУКИ</text>
-  <circle class="fil0 str3" transform="matrix(-1.85574 3.5375 -3.5375 -1.85574 10754.2 14436)" r="2064.53"/>
+  <circle class="fil0" transform="matrix(-1.85574 3.5375 -3.5375 -1.85574 10754.2 14436)" r="2064.53"/>
   <text x="6217.93" y="21353.29"  class="fil1 fnt3"><tspan rotate="218">К</tspan></text>
   <text x="5446.29" y="20768.38"  class="fil1 fnt3"><tspan rotate="224">А</tspan></text>
   <text x="4770.12" y="20124.5"  class="fil1 fnt3"><tspan rotate="229">З</tspan></text>
